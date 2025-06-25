@@ -1,0 +1,15 @@
+Username,User_type,User_id,Password
+Administrator,Admin,Ad001,r::'M|ED
+STORE SECTION,customer,st010,"W"",2ny_C"
+CONTROL ROOM,customer,co013,VaSFWu;!
+FOOD SECTION,customer,fo013,Y`fH!*as
+SECURITY DIVISION,customer,se006,>D])@+SL
+HYGIENE DEPARTMENT,customer,hy001,UQZ6w`dP
+FACILITY DIVISION,customer,fa007,/AfEoex[
+CHILLER SERVICE,supplier,ch001,*X_|V)~k
+FIRE ALARM SERVICE,supplier,fi010,T(-wZ44F
+FIRE FIGHTING SERVICE,supplier,fi008,wb7^mlj$
+BMS SERVICE,supplier,bm003,e_[b!j5[
+ACCESS CONTROL SERVICE,supplier,ac002,"[4Xt,\{L"
+LIGHTING CONTROL SERVICE,supplier,li009,6h?e.U2s
+CSB SERVICE,supplier,cs010,xr_i\ixo
